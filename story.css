@@ -1,0 +1,80 @@
+
+
+body{
+  width: 80%;
+  height: 90%;
+  background-color: #008080;
+  margin: 0 auto;
+
+
+}
+h3{
+	padding-top:30px;
+	margin-left: 240px;
+	font-size: 40px;
+	color: white;
+}
+#container{
+  width: 600px;
+  margin: 0 auto;
+  background-color: #00b3b3;
+    
+}
+.Input {
+	 width: 90%;
+	 border: 1px,solid,#006666;
+	 padding: 12px 20px;
+     border-radius: 4px;
+     box-sizing: border-box;
+     background-color: #e6ffff;
+   }
+
+  .Control{
+     
+       width: 45px;
+       padding: 8px 10px;
+       background-color: green;
+       color: green;
+  }
+  p{
+
+  	font-size: 18px;
+    padding: 0px 30px;
+    display: inline-block;
+   }
+   select{
+   	padding: 8px 10px;
+   	padding-top: 5px;
+   	border-radius: 4px;
+    box-sizing: border-box;
+    background-color: #e6ffff;
+    border: 1px,solid,#006666;
+    margin-left: 50px;
+    width: 430px;
+    } 
+   textarea{
+   	width: 430px;
+   	margin-left: 50px;
+   	border-radius: 4px;
+    box-sizing: border-box;
+    background-color: #e6ffff;
+    border: 1px,solid,#006666;
+    height: 90px;
+   }
+   button{
+    padding: 8px 10px;
+   	padding-top: 5px;
+   	border-radius: 4px;
+    box-sizing: border-box;
+    background-color: #e6ffff;
+    border: 1px,solid,#006666;
+    margin-left: 200px;
+    width: 100px;
+    font-size: 20px;
+    font-weight: bold;
+   }
+form{
+
+	margin-left: 40px;
+
+}
